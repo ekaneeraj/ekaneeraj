@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ekaneeraj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Neeraj Singh.
+- 👀 I’m interested in web3.
+- 🌱 I’m currently learning more about blockchain development and decentralized applications (DApps).
+- 💞️ I’m looking to collaborate on exciting web3 projects that push the boundaries of decentralized technologies.
+- 📫 How to reach me: Feel free to connect with me on LinkedIn ([https://linkedin.com/in/www.linkedin.com/in/ekaneeraj]) or reach out via email at [ekaneeraj@gmail.com]. Looking forward to engaging in the web3 community!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@ekaneeraj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ekaneeraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ekaneeraj) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ekaneeraj) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ekaneeraj) 
